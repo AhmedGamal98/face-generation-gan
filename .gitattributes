@@ -1,0 +1,2 @@
+# The HTML file is an export of the notebook, so GitHub should count the notebook as the language.
+*.html linguist-generated=true
